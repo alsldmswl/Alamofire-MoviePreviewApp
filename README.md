@@ -21,7 +21,7 @@
   * 검색창에 영화제목을 검색할 수 있습니다.
   * 검색 목록을 선택하면 프리뷰 영상과 영화에 대한 간단한 설명을 확인할 수 있습니다.
   
- <img src = "https://user-images.githubusercontent.com/82255206/221648283-142d56a2-a456-4b7d-b71e-95f94969790d.png" width="170" height="360"/> <img src = "https://user-images.githubusercontent.com/82255206/222948880-25d28d4d-2a23-4d0d-8442-bb2b7b8ab04d.png" width="170" height="360"/> <img src = "https://user-images.githubusercontent.com/82255206/221648318-b67c15f8-e27f-4c97-9b3b-c55827be10e8.png" width="170" height="360"/>  
+ <img src = "https://user-images.githubusercontent.com/82255206/221648283-142d56a2-a456-4b7d-b71e-95f94969790d.png" width="170" height="360"/> <img src = "https://user-images.githubusercontent.com/82255206/222948880-25d28d4d-2a23-4d0d-8442-bb2b7b8ab04d.png" width="230" height="400"/> <img src = "https://user-images.githubusercontent.com/82255206/221648318-b67c15f8-e27f-4c97-9b3b-c55827be10e8.png" width="170" height="360"/>  
 
  * 프로젝트 구조  
 
