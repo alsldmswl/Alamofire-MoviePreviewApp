@@ -10,11 +10,20 @@ import UIKit
 
 class testCell: UITableViewCell {
     
-    @IBOutlet weak var titleLabel: UILabel!
+    @IBOutlet weak var titleLabel: UILabel! {
+        didSet{
+            titleLabel.font = UIFont.systemFont(ofSize: 18,weight: .medium)
+        }
+       
+    }
     
     
     @IBOutlet weak var movieImg: UIImageView!
     
-    @IBOutlet weak var dateLabel: UILabel!
+    @IBOutlet weak var dateLabel: UILabel! {
+        didSet{
+            dateLabel.font = UIFont.systemFont(ofSize: 13, weight: .light)
+        }
+    }
     
 }
