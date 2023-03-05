@@ -1,7 +1,7 @@
 # ios_new_MoviePreviewApp
 ---
 ## 프로젝트 목적
-* URLSession을 사용한 기존 프로젝트를 Alamofire를 사용하여 다시 구현하였습니다.
+* URLSession을 사용한 기존 프로젝트를 Alamofire를 사용하여 다시 구현하였습니다.  
 원하는 영화를 검색하여 해당 영화의 간단한 설명과 프리뷰 영상을 볼 수 있습니다.
 ---
 ## 프로젝트 설명
